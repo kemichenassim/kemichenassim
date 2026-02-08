@@ -17,4 +17,7 @@ Il présente mon profil, mes compétences et un projet réalisé dans le cadre d
 
 ## Objectif
 Présenter de manière claire et structurée mon travail et mes compétences.
+## Projet principal
+- Communication en entreprise  
+Lien : https://github.com/TONPSEUDO/communication-en-entreprise
 
