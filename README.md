@@ -83,7 +83,7 @@ Développer un système de classification automatique capable de distinguer les 
 ## 🌐 Liens & Contact
 
 🔗 **GitHub** : https://github.com/kemichenassim  
-🌐 **Portfolio Web** : [https://kemichenassim.github.io/ ](https://kemichenassim.github.io/) 
+🌐 **Portfolio Web** : https://kemichenassim.github.io/ 
 📧 **Email** : kemichenassim486@gmail.com  
 
 
