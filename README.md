@@ -1,4 +1,4 @@
-# 👨‍💻 Portfolio – Kemiche Nassim
+# Kemiche Nassim
 
 🎓 **Étudiant en science des données – Collège La Cité**  
 📊 Intéressé par l'analyse de données, le prétraitement, le machine learning et l'apprentissage profond.
